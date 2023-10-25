@@ -1,5 +1,5 @@
 
-    - name: Autobuild
+      name: Autobuild
       uses: github/codeql-action/autobuild@v2
 
     # ℹ️ Command-line programs to run using the OS shell.
